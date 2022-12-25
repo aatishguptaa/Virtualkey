@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class WelcomeScreen implements Screen {
 
     private String welcomeText = "Welcome to VirtualKey!";
-    private String developerText = "Developer: Melvin Wu";
+    private String developerText = "Developer: Aatish Gupta";
 
     private ArrayList<String> options = new ArrayList<>();
 
